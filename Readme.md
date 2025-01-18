@@ -8,3 +8,4 @@ https://wonderwords.readthedocs.io/en/latest/quickstart.html#the-randomsentence-
 4. Run `python3 sentences_producer.py` to run the producer to produce data
 5. Run `python3 analytics.py` to get the data stream from Kafka and run the sentiment analysis
 
+![image](https://github.com/user-attachments/assets/434c3b15-787b-4c48-8039-fdf7b348874b)
